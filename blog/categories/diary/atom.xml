@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Diary | kutunesirka Blog]]></title>
+  <link href="http://kutunesirka.github.io/blog/categories/diary/atom.xml" rel="self"/>
+  <link href="http://kutunesirka.github.io/"/>
+  <updated>2013-12-25T01:34:40+09:00</updated>
+  <id>http://kutunesirka.github.io/</id>
+  <author>
+    <name><![CDATA[kutunesirka]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[About]]></title>
+    <link href="http://kutunesirka.github.io/blog/2013/12/21/about/"/>
+    <updated>2013-12-21T23:56:33+09:00</updated>
+    <id>http://kutunesirka.github.io/blog/2013/12/21/about</id>
+    <content type="html"><![CDATA[<p><a href="http://octopress.org/" title="Octopress">Octopress</a>を使い、<a href="http://pages.github.com/" title="GitHub Pages">GitHub Pages</a>でブログを始めてみました。よろしくお願いします。</p>
+
+<p>私が使用しているOSはWindows7なのですが、RubyをWindowsで動かすのは色々と準備が必要らしいので、VirtualboxでCentOSをインストールして、Windows7との共有フォルダにOctopressをインストールして動かしています。なお、Virtualboxの共有フォルダにOctopressをインストールする場合、sassからcssを生成するときにエラーが発生します。config.rbの中にcache_pathを指定して、そこだけVirtualboxの中のディレクトリを指定してください。</p>
+
+<p>インストールには、以下の記事を参考にしました。</p>
+
+<ul>
+<li><a href="http://morizyun.github.io/blog/octopress-gitpage-minimum-install-guide/" title="OctopressでGitHub無料ブログ構築。sourceをBitbucket管理。簡単ガイド！">OctopressでGitHub無料ブログ構築。sourceをBitbucket管理。簡単ガイド！</a> &ndash; <a href="http://morizyun.github.io/" title="酒と泪とRubyとRailsと">酒と泪とRubyとRailsと</a></li>
+<li><a href="http://csfactory.jp/blog/2013/12/11/virtualbox-%E3%81%AE%E5%85%B1%E6%9C%89%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%81%A7-sass-%E3%81%99%E3%82%8B%E3%81%A8%E3%82%A8%E3%83%A9%E3%83%BC/" title="VirtualBox の共有フォルダで sass するとエラー">VirtualBox の共有フォルダで sass するとエラー</a> &ndash; <a href="http://csfactory.jp/blog/" title="やおよろグッ！">やおよろグッ！</a></li>
+</ul>
+
+
+<p><a href="http://octopress.org/" title="Octopress">Octopress</a>のテーマには、<a href="https://github.com/shashankmehta/greyshade" title="greyshade">greyshade</a>を使用しました。最新のバージョンは、スクリーンショットと少しデザインが変わっていたので、Githubのコードをたどって<a href="https://github.com/shashankmehta/greyshade/tree/040c014d6beae0f7dff74e54ea50b2f57e9ce915" title="greyshade">古いバージョン</a>を使用しています。</p>
+]]></content>
+  </entry>
+  
+</feed>

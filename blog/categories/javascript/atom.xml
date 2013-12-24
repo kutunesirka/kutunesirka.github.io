@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: JavaScript | kutunesirka Blog]]></title>
+  <link href="http://kutunesirka.github.io/blog/categories/javascript/atom.xml" rel="self"/>
+  <link href="http://kutunesirka.github.io/"/>
+  <updated>2013-12-25T01:34:40+09:00</updated>
+  <id>http://kutunesirka.github.io/</id>
+  <author>
+    <name><![CDATA[kutunesirka]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ichinen-search for Firefoxをリリース]]></title>
+    <link href="http://kutunesirka.github.io/blog/2013/12/23/ichinen-search-for-firefox-extension/"/>
+    <updated>2013-12-23T19:03:37+09:00</updated>
+    <id>http://kutunesirka.github.io/blog/2013/12/23/ichinen-search-for-firefox-extension</id>
+    <content type="html"><![CDATA[<p><a href="https://addons.mozilla.org/ja/firefox/addon/ichinen-search/" title="ichinen-search for Firefox">ichinen-search for Firefox</a>は、Google Chromeの拡張機能「<a href="https://chrome.google.com/webstore/detail/ato-ichinen/pojaolkbbklmcifckclknpolncdmbaph" title="ato-ichinen">ato-ichinen</a>」を参考に作成したFirefox用の拡張機能です。</p>
+
+<p>初めてChromeのato-ichinenを使用した時は、シンプルながらとても便利なので、普段から使用しているFirefoxでも同じような拡張機能があるかと思って探しましたが見つけられなかったので、それならばとJavascriptの勉強がてら作成してみました。</p>
+
+<p>ツールバーにアイコンを追加することで、クリック1回だけで、Google検索の期限検索を可能とします。1年以内だけでなく、アイコンの横にあるプルダウンメニューを選択することで、1時間、24時間（1日）、1週間、1ヶ月にも対応しております。</p>
+
+<p>ソースはGithubにも公開しておりますので、もし興味がありましたら、ご覧ください。ライセンスはMIT-LICENSEとしています。多くの人に見てもらうために、README.mdなどの説明文は英語で書いておりますが、正直、合っているのかどうかは、かなり自信がありません。そろそろ、英語もきちんと勉強しないと駄目ですね。</p>
+
+<p>アイコンは、「<a href="http://ionicons.com/" title="ionicons">ionicons</a>」で配布されているものを頂き、加工して使用しています。このアイコンのライセンスもMIT LICENSEとなっているとのこと。</p>
+]]></content>
+  </entry>
+  
+</feed>
